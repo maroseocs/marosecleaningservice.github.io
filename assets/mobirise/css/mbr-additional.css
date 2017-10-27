@@ -3228,59 +3228,45 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/mbr-2-1620x1080.jpg");
 }
-.cid-qwW0eiBtwt {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qwW0eiBtwt .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-qwW0eiBtwt .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-qwW0eiBtwt .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-qwW0eiBtwt .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-qwW0eiBtwt .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-}
-.cid-qwW0eiBtwt .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  background: linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-}
-.cid-qwWhoaIsYf {
+.cid-qzdJLGXQs8 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background: #ffffff;
+  background: #70c74f;
+  background: linear-gradient(0deg, #70c74f, #ffffff);
 }
-.cid-qwWhoaIsYf .video-block {
+.cid-qzdJLGXQs8 .video-block {
   margin: auto;
 }
 @media (max-width: 768px) {
-  .cid-qwWhoaIsYf .video-block {
+  .cid-qzdJLGXQs8 .video-block {
+    width: 100% !important;
+  }
+}
+.cid-qzdK6oI6yD {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+  background: linear-gradient(0deg, #ffffff, #70c74f);
+}
+.cid-qzdK6oI6yD .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qzdK6oI6yD .video-block {
+    width: 100% !important;
+  }
+}
+.cid-qzdKouLjp7 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #70c74f;
+  background: linear-gradient(0deg, #70c74f, #ffffff);
+}
+.cid-qzdKouLjp7 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qzdKouLjp7 .video-block {
     width: 100% !important;
   }
 }
