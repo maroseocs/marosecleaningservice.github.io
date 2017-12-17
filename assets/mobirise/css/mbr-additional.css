@@ -2687,6 +2687,91 @@ body {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/mbr-2-1620x1080.jpg");
 }
+.cid-qE5XLSsQV2 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qE5XLSsQV2 .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qE5XLSsQV2 .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qE5XLSsQV2 .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qE5XLSsQV2 .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qE5XLSsQV2 .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to left, #554346, #45505b) !important;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qE5XLSsQV2 .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  background: linear-gradient(to left, rgba(85, 67, 70, 0.85), rgba(69, 80, 91, 0.85)) !important;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+}
+.cid-qE60FYhk6H {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background: #ffffff;
+}
+.cid-qE60FYhk6H .media-container-row {
+  margin: 0 auto;
+  align-items: stretch;
+}
+.cid-qE60FYhk6H .media-container-row .img-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  z-index: 1;
+}
+.cid-qE60FYhk6H .media-container-row .img-item img {
+  width: 100%;
+}
+.cid-qE60FYhk6H .media-container-row .img-item .img-caption {
+  background: #ffffff;
+  z-index: 2;
+  padding: 1rem 1rem;
+  word-break: break-word;
+}
+.cid-qE60FYhk6H .media-container-row .img-item .img-caption p {
+  margin-bottom: 0;
+}
+.cid-qE60FYhk6H .media-container-row .img-item.item1 {
+  padding: 0 2rem 0 0;
+}
+@media (max-width: 992px) {
+  .cid-qE60FYhk6H .img-item {
+    width: 100% !important;
+  }
+  .cid-qE60FYhk6H .img-item.item1 {
+    width: 100%;
+    flex-basis: initial !important;
+    padding: 0 0 2rem 0 !important;
+  }
+}
 .cid-qzdJLGXQs8 {
   padding-top: 60px;
   padding-bottom: 60px;
