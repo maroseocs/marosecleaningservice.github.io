@@ -1795,8 +1795,8 @@ body {
   margin-top: 3rem;
 }
 .cid-qS8Z8idXg5 .mbr-testimonial .panel-item {
-  background-color: #073b4c;
-  background: linear-gradient(#073b4c, transparent);
+  background-color: #10d642;
+  background: linear-gradient(#10d642, transparent);
 }
 .cid-qS8Z8idXg5 .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
@@ -1832,6 +1832,12 @@ body {
     width: 100% !important;
     height: auto !important;
   }
+}
+.cid-qS8Z8idXg5 H2 {
+  color: #ffffff;
+}
+.cid-qS8Z8idXg5 .mbr-section-subtitle {
+  color: #ffffff;
 }
 .cid-qwWi0k2uKb {
   padding-top: 30px;
